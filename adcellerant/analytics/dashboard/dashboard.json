@@ -1,5 +1,5 @@
 {
-    "$id": "new-account-dashboard",
+    "$id": "new_account_dashboard",
     "$schema": "https://schema.yext.com/config/analytics/dashboard/v1",
     "name": "NEW - Account Dashboard",
     "insights": [
