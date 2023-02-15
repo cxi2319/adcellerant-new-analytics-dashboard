@@ -1,0 +1,30 @@
+{
+  "$id": "c_Listings_Impressions_by_Month_and_App_Map",
+  "$schema": "https://schema.yext.com/config/analytics/insight/v1",
+  "name": "Listings Impressions by Month and App",
+  "description": "Listings Maps Impressions by Month ",
+  "query": {
+    "metrics": [
+      "yext/LISTINGS_IMPRESSIONS"
+    ],
+    "dimensions": [
+      "yext/MONTHS",
+      "yext/APP"
+    ],
+    "filters": [
+      {
+        "filter": "yext/date",
+        "in": "MONTHS_1"
+      },
+      {
+        "filter": "yext/APP",
+        "in": [
+          "MAPS"
+        ]
+      }
+    ]
+  },
+  "display": {
+    "table": {}
+  }
+}

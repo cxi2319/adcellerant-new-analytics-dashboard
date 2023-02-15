@@ -1,7 +1,7 @@
 {
-    "$id": "new-account-dash",
+    "$id": "new-account-dashboard",
     "$schema": "https://schema.yext.com/config/analytics/dashboard/v1",
-    "name": "NEW Analytics Dashboard",
+    "name": "NEW - Account Dashboard",
     "insights": [
         {
             "insight": "LOCATION-MAP",
@@ -46,14 +46,14 @@
             "height": 1
         },
         {
-            "insight": "c_Listings_Impressions_by_Month_and_App107869",
+            "insight": "c_Listings_Impressions_by_Month_and_App_Search",
             "x": 0,
             "y": 3,
             "width": 2,
             "height": 1
         },
         {
-            "insight": "c_Listings_Impressions_by_Month_and_App107867",
+            "insight": "c_Listings_Impressions_by_Month_and_App_Map",
             "x": 2,
             "y": 3,
             "width": 2,
@@ -81,7 +81,7 @@
             "height": 1
         },
         {
-            "insight": "c_Google_Customer_Actions_by_Customer_Action_Type107865",
+            "insight": "c_Listings_Actions_by_Month_and_Action",
             "x": 4,
             "y": 4,
             "width": 2,
