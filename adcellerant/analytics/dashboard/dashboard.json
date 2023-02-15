@@ -1,0 +1,111 @@
+{
+    "$id": "c_162309",
+    "$schema": "https://schema.yext.com/config/analytics/dashboard/v1",
+    "name": "NEW - account dash",
+    "insights": [
+        {
+            "insight": "LOCATION-MAP",
+            "x": 0,
+            "y": 0,
+            "width": 2,
+            "height": 2
+        },
+        {
+            "insight": "LISTINGS-OVERVIEW",
+            "x": 2,
+            "y": 0,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "insight": "listings-googleSearchTermImpressionsByRawSearchTerm-table",
+            "x": 4,
+            "y": 0,
+            "width": 2,
+            "height": 3
+        },
+        {
+            "insight": "LISTINGS-REACH-OVER-TIME",
+            "x": 2,
+            "y": 1,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "insight": "TOTAL-LISTINGS-IMPRESSIONS-TABLE",
+            "x": 0,
+            "y": 2,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "insight": "TOTAL-LISTINGS-IMPRESSIONS-GRAPH",
+            "x": 2,
+            "y": 2,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "insight": "c_Listings_Impressions_by_Month_and_App107869",
+            "x": 0,
+            "y": 3,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "insight": "c_Listings_Impressions_by_Month_and_App107867",
+            "x": 2,
+            "y": 3,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "insight": "LISTINGS-SEARCHES-BY-DEVICE",
+            "x": 4,
+            "y": 3,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "insight": "TOTAL-LISTINGS-CLICKS-TABLE",
+            "x": 0,
+            "y": 4,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "insight": "TOTAL-LISTINGS-CLICKS-GRAPH",
+            "x": 2,
+            "y": 4,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "insight": "c_Google_Customer_Actions_by_Customer_Action_Type107865",
+            "x": 4,
+            "y": 4,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "insight": "REVIEWS-OVERVIEW",
+            "x": 0,
+            "y": 5,
+            "width": 2,
+            "height": 1
+        },
+        {
+            "insight": "REVIEW-DISTRIBUTION-OVER-TIME",
+            "x": 2,
+            "y": 5,
+            "width": 2,
+            "height": 1
+        }
+    ],
+    "filters": [
+        {
+            "filter": "yext/date",
+            "in": "WEEKS_12"
+        }
+    ]
+}
