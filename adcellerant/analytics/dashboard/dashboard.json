@@ -1,7 +1,7 @@
 {
-    "$id": "c_162309",
+    "$id": "new-account-dash",
     "$schema": "https://schema.yext.com/config/analytics/dashboard/v1",
-    "name": "NEW - account dash",
+    "name": "NEW Analytics Dashboard",
     "insights": [
         {
             "insight": "LOCATION-MAP",
