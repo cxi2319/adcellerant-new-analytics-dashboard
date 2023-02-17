@@ -1,5 +1,5 @@
 {
-  "$id": "c_Listings_Actions_by_Month_and_Action",
+  "$id": "listings-actions-by-month-action-table",
   "$schema": "https://schema.yext.com/config/analytics/insight/v1",
   "name": "Listings Actions by Month and Action",
   "description": "Listings Actions by Month and Action",

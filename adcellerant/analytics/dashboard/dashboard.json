@@ -46,14 +46,14 @@
             "height": 1
         },
         {
-            "insight": "c_Listings_Impressions_by_Month_and_App_Search",
+            "insight": "listings-impressions-month-app-search",
             "x": 0,
             "y": 3,
             "width": 2,
             "height": 1
         },
         {
-            "insight": "c_Listings_Impressions_by_Month_and_App_Map",
+            "insight": "listings-impressions-month-app-map",
             "x": 2,
             "y": 3,
             "width": 2,
@@ -81,7 +81,7 @@
             "height": 1
         },
         {
-            "insight": "c_Listings_Actions_by_Month_and_Action",
+            "insight": "listings-actions-by-month-action-table",
             "x": 4,
             "y": 4,
             "width": 2,
